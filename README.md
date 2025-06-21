@@ -33,20 +33,6 @@
   <img src="https://img.shields.io/badge/Statistical_Analysis-0088CC?style=flat&logo=scikitlearn&logoColor=white">
 </div>
 
-## 🚀 Selected Projects
-
-### [📊 Sales Analytics Dashboard](https://github.com/nurahmed12/sales-dash)
-**Tech:** `Power BI` `SQL` `Python`  
-- Automated KPI tracking for 12 product categories
-- Reduced reporting time by 35% through dynamic visualizations
-- Identified $250K+ revenue opportunities through trend analysis
-
-### [🔄 Customer Data Pipeline](https://github.com/nurahmed12/customer-pipeline)
-**Tech:** `Python` `PostgreSQL` `Apache Airflow`  
-- Engineered scalable data ingestion for 1M+ customer records
-- Implemented data validation checks improving data quality by 40%
-- Enabled real-time segmentation for marketing campaigns
-
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/nurahmed12">
