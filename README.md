@@ -4,8 +4,8 @@
 -->
 
 <div align="center">
-  <!-- Avatar -->
-  <img src="https://github.com/nurahmed12.png" width="100" alt="Nur Ahmed"/>
+  <!-- Avatar (bigger) -->
+  <img src="https://github.com/nurahmed12.png" width="150" alt="Nur Ahmed"/>
 
   <!-- Header: Name and Tagline -->
   <h1>👋 Hi, I’m Nur Ahmed</h1>
@@ -24,12 +24,11 @@
     </a>
   </p>
 
-  <!-- GitHub Stats & Top Languages -->
+  <!-- GitHub Stats & Top Languages (donut layout, no “C”) -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
     &nbsp;
-    <!-- Excluding C from Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=default&hide_border=true&exclude_lang=C" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=donut&theme=default&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
@@ -73,7 +72,7 @@
 
 ## 📈 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nurahmed12&theme=default&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurahmed12&theme=github" alt="Activity Graph" />
 </div>
 
 ---
