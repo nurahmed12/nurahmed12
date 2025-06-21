@@ -24,9 +24,11 @@
     </a>
   </p>
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats & Top Languages (donut layout, no “C”) -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=donut&theme=default&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
