@@ -11,19 +11,19 @@
   <!-- Badges: GitHub stats, LinkedIn, email, top languages -->
   <p>
     <a href="https://github.com/nurahmed12">
-      <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="Follow on GitHub"/>
+      <img src="https://img.shields.io/github/followers/nurahmed12?label=Follow&style=social" alt="Follow on GitHub"/>
     </a>
     <a href="https://www.linkedin.com/in/nurahmed12/">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="mailto:officialme.nurahmed@gmail.com">
-      <img src="https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail" alt="Email me"/>
+      <img src="https://img.shields.io/badge/Email-officialme.nurahmed@gmail.com-red?style=flat-square&logo=gmail" alt="Email me"/>
     </a>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
@@ -67,7 +67,7 @@
 
 ## 📈 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=default&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nurahmed12&theme=default&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
