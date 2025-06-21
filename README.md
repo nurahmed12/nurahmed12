@@ -18,7 +18,7 @@
   <a href="https://www.kaggle.com/nurahmed12" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
-  <a href="https://mail.google.com/mail/u/0/?to=officialme.nurahmed@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=officialme.nurahmed@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -108,7 +108,7 @@
   <a href="https://www.kaggle.com/nurahmed12" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Explore_Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
-  <a href="https://mail.google.com/mail/u/0/?to=officialme.nurahmed@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=officialme.nurahmed@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/nurahmed12" target="_blank">
