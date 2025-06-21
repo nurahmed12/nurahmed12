@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="https://github.com/nurahmed12.png" width="150" height="150" style="border-radius:50%;border:3px solid #64ffda">
+  <img src="https://github.com/nurahmed12.png" width="180" height="180" style="border-radius:50%;border:3px solid #64ffda">
   <h1>👋 Hi, I'm Nur Ahmed</h1>
   <h3><em>Transforming raw data into actionable insights</em></h3>
 </div>
 
+<div align="center" style="margin-top: 10px">
+  <img src="https://komarev.com/ghpvc/?username=nurahmed12&label=Profile%20views&color=0e75b6&style=flat" alt="nurahmed12" />
+</div>
+
 ## 🔗 Connect With Me
 <div align="center">
-  <a href="https://github.com/nurahmed12" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   <a href="https://linkedin.com/in/nurahmed12" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/nurahmed12" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://nurahmed12.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white">
@@ -33,6 +37,7 @@
 <div align="center">
   
 ### 🛠️ Data Engineering & Analytics
+<div style="margin: 20px 0"></div>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -55,12 +60,13 @@
 </p>
 
 ### 📊 Visualization & BI
+<div style="margin: 20px 0"></div>
 <p align="center">
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   </a>
   <a href="https://www.tableau.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
   </a>
   <a href="https://matplotlib.org" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
@@ -71,6 +77,7 @@
 </p>
 
 ### 🤖 Machine Learning
+<div style="margin: 20px 0"></div>
 <p align="center">
   <a href="https://scikit-learn.org" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
@@ -87,20 +94,6 @@
 </p>
 </div>
 
-## 🚀 Selected Projects
-
-### [📊 Sales Analytics Dashboard](https://github.com/nurahmed12/sales-dash)
-**Tech:** `Power BI` `SQL` `Python`  
-- Automated KPI tracking for 12 product categories
-- Reduced reporting time by 35% through dynamic visualizations
-- Identified $250K+ revenue opportunities through trend analysis
-
-### [🔄 Customer Data Pipeline](https://github.com/nurahmed12/customer-pipeline)
-**Tech:** `Python` `PostgreSQL` `Apache Airflow`  
-- Engineered scalable data ingestion for 1M+ customer records
-- Implemented data validation checks improving data quality by 40%
-- Enabled real-time segmentation for marketing campaigns
-
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/nurahmed12" target="_blank" rel="noopener noreferrer">
@@ -116,6 +109,9 @@
 
 ## 📬 Get In Touch
 <div align="center">
+  <a href="https://linkedin.com/in/nurahmed12" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://nurahmed12.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View_Full_Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
@@ -124,9 +120,6 @@
   </a>
   <a href="https://mail.google.com/mail/u/0/?to=officialme.nurahmed@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/nurahmed12" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
