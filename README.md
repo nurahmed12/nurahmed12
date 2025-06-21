@@ -28,7 +28,8 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    <!-- Excluding C from Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=default&hide_border=true&exclude_lang=C" alt="Top Languages" />
   </p>
 </div>
 
