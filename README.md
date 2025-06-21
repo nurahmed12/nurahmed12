@@ -24,11 +24,11 @@
     </a>
   </p>
 
-  <!-- GitHub Stats & Top Languages (donut layout, no “C”) -->
+  <!-- GitHub Stats & Top Languages (compact layout, excluding C) -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=donut&theme=default&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=default&hide_border=true&exclude_lang=C" alt="Top Languages" />
   </p>
 </div>
 
@@ -72,7 +72,7 @@
 
 ## 📈 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurahmed12&theme=github" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nurahmed12&theme=github" alt="Activity Graph" />
 </div>
 
 ---
