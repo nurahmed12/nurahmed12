@@ -22,8 +22,7 @@
   <a href="https://www.kaggle.com/nurahmed12" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
-  <!-- Fixed email link below -->
-  <a href="mailto:officialme.nurahmed@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=officialme.nurahmed@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
