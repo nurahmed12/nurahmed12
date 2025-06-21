@@ -5,18 +5,18 @@
 
 <div align="center">
   <!-- Header: Name and Tagline -->
-  <h1>👋 Hi, I’m [Your Name]</h1>
+  <h1>👋 Hi, I’m Nur Ahmed</h1>
   <p>🔍 Driving insights & building data pipelines to power smarter decisions</p>
 
   <!-- Badges: GitHub stats, LinkedIn, email, top languages -->
   <p>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/nurahmed12">
       <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="Follow on GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/yourprofile/">
+    <a href="https://www.linkedin.com/in/nurahmed12/">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:officialme.nurahmed@gmail.com">
       <img src="https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail" alt="Email me"/>
     </a>
   </p>
@@ -73,9 +73,9 @@
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: your.email@example.com  
+- 📧 Email: officialme.nurahmed@gmail.com 
 - 🔗 LinkedIn: www.linkedin.com/in/nurahmed12  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: https://nurahmed12.github.io/Portfolio/
 
 ---
 
