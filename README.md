@@ -1,17 +1,9 @@
-<!--
-  🔥 README Template for Data Roles 🔥
-  Customize the badges, links, and project descriptions below!
--->
-
 <div align="center">
-  <!-- Avatar (bigger) -->
-  <img src="https://github.com/nurahmed12.png" width="150" alt="Nur Ahmed"/>
+  <img src="https://github.com/nurahmed12.png" width="160" alt="Nur Ahmed"/>
 
-  <!-- Header: Name and Tagline -->
   <h1>👋 Hi, I’m Nur Ahmed</h1>
   <p>🔍 Driving insights & building data pipelines to power smarter decisions</p>
 
-  <!-- Badges: GitHub stats, LinkedIn, email -->
   <p>
     <a href="https://github.com/nurahmed12">
       <img src="https://img.shields.io/github/followers/nurahmed12?label=Follow&style=social" alt="Follow on GitHub"/>
@@ -24,7 +16,6 @@
     </a>
   </p>
 
-  <!-- GitHub Stats & Top Languages (donut layout, no “C”) -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
     &nbsp;
