@@ -12,7 +12,13 @@
   <a href="https://linkedin.com/in/nurahmed12" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:officialme.nurahmed@gmail.com" target="_blank">
+  <a href="https://nurahmed12.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/nurahmed12" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?to=officialme.nurahmed@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -23,14 +29,62 @@
 - 🌱 Mastering **cloud data platforms** and **machine learning applications**
 - 📈 Committed to data-driven decision making and business impact
 
-## 💻 Core Skills
+## 💻 Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Data_Visualization-FF7139?style=flat&logo=powerbi&logoColor=white">
-  <img src="https://img.shields.io/badge/ETL/Data_Pipelines-01BEFE?style=flat&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud_Platforms-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-0088CC?style=flat&logo=scikitlearn&logoColor=white">
+  
+### 🛠️ Data Engineering & Analytics
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  </a>
+  <a href="https://airflow.apache.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Airflow" width="50" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+  </a>
+</p>
+
+### 📊 Visualization & BI
+<p align="center">
+  <a href="https://powerbi.microsoft.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  </a>
+  <a href="https://www.tableau.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-plain.svg" alt="Tableau" width="50" height="50"/>
+  </a>
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
+  </a>
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+  </a>
+</p>
+
+### 🤖 Machine Learning
+<p align="center">
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  </a>
+</p>
 </div>
 
 ## 📊 GitHub Stats
@@ -39,20 +93,23 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats">
   </a>
   <a href="https://github.com/nurahmed12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=Portfolio" alt="Top Languages">
   </a>
   <a href="https://github.com/nurahmed12">
     <img height="180em" src="https://streak-stats.demolab.com?user=nurahmed12&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
   </a>
 </div>
 
-## 📬 Contact & Portfolio
+## 📬 Get In Touch
 <div align="center">
-  <a href="https://github.com/nurahmed12?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <a href="https://nurahmed12.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Full_Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="mailto:officialme.nurahmed@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-officialme.nurahmed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.kaggle.com/nurahmed12" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Explore_Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?to=officialme.nurahmed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/nurahmed12" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
