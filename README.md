@@ -107,22 +107,6 @@
   </a>
 </div>
 
-## 📬 Get In Touch
-<div align="center">
-  <a href="https://linkedin.com/in/nurahmed12" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://nurahmed12.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-View_Full_Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/nurahmed12" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-Explore_Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?to=officialme.nurahmed@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
 ---
 <div align="center" style="font-size:1.2em;font-weight:bold;margin-top:20px">
   🚀 Let's extract value from data together!
