@@ -4,11 +4,14 @@
 -->
 
 <div align="center">
+  <!-- Avatar -->
+  <img src="https://avatars.githubusercontent.com/u/your-GitHub-ID?v=4" width="100" alt="Nur Ahmed"/>
+
   <!-- Header: Name and Tagline -->
   <h1>👋 Hi, I’m Nur Ahmed</h1>
   <p>🔍 Driving insights & building data pipelines to power smarter decisions</p>
 
-  <!-- Badges: GitHub stats, LinkedIn, email, top languages -->
+  <!-- Badges: GitHub stats, LinkedIn, email -->
   <p>
     <a href="https://github.com/nurahmed12">
       <img src="https://img.shields.io/github/followers/nurahmed12?label=Follow&style=social" alt="Follow on GitHub"/>
@@ -17,9 +20,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="mailto:officialme.nurahmed@gmail.com">
-      <img src="https://img.shields.io/badge/Email-officialme.nurahmed@gmail.com-red?style=flat-square&logo=gmail" alt="Email me"/>
+      <img src="https://img.shields.io/badge/Email-Here-red?style=flat-square&logo=gmail" alt="Email me"/>
     </a>
   </p>
+
+  <!-- GitHub Stats & Top Languages -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
     &nbsp;
@@ -45,19 +50,19 @@
 
 ## 📂 Selected Projects
 
-### 1. Sales Dashboard & Forecasting  
+### 1. [Sales Dashboard & Forecasting](https://github.com/nurahmed12/sales-dashboard)  
 **Stack:** Python · Pandas · Plotly · Flask · PostgreSQL  
 - Built an interactive dashboard tracking KPIs (revenue, churn, CLV).  
 - Implemented time-series forecasting to predict next-quarter sales with 92% accuracy.  
 - Deployed on AWS EC2 with CI/CD for automatic updates.
 
-### 2. Real-Time Data Pipeline  
+### 2. [Real-Time Data Pipeline](https://github.com/nurahmed12/real-time-pipeline)  
 **Stack:** Apache Kafka · Spark Streaming · Delta Lake · Airflow  
 - Designed a resilient Kafka‑Spark pipeline processing 10k messages/sec.  
 - Layered data landing, cleaning, and serving tables in Delta Lake on AWS S3.  
 - Orchestrated end‑to‑end workflows in Airflow with error alerts.
 
-### 3. Customer Segmentation with ML  
+### 3. [Customer Segmentation with ML](https://github.com/nurahmed12/customer-segmentation)  
 **Stack:** scikit‑learn · KMeans · PCA · Seaborn  
 - Clustered 100k+ user records to identify 4 actionable customer segments.  
 - Visualized segment behaviors to inform targeted marketing campaigns.  
@@ -73,9 +78,9 @@
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: officialme.nurahmed@gmail.com 
-- 🔗 LinkedIn: www.linkedin.com/in/nurahmed12  
-- 🌐 Portfolio: https://nurahmed12.github.io/Portfolio/
+- 📧 Email: [officialme.nurahmed@gmail.com](mailto:officialme.nurahmed@gmail.com)  
+- 🔗 LinkedIn: [nurahmed12](https://www.linkedin.com/in/nurahmed12/)  
+- 🌐 Portfolio: [nurahmed12.github.io/Portfolio](https://nurahmed12.github.io/Portfolio/)
 
 ---
 
