@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Avatar -->
-  <img src="https://avatars.githubusercontent.com/u/your-GitHub-ID?v=4" width="100" alt="Nur Ahmed"/>
+  <img src="https://github.com/nurahmed12.png" width="100" alt="Nur Ahmed"/>
 
   <!-- Header: Name and Tagline -->
   <h1>👋 Hi, I’m Nur Ahmed</h1>
@@ -35,9 +35,9 @@
 ---
 
 ## 🚀 About Me
-- Passionate about translating raw data into actionable insights.
-- Experienced in building ETL pipelines, dashboards, and ML prototypes.
-- Skilled at communicating complex analyses in clear, business-friendly language.
+- Passionate about translating raw data into actionable insights  
+- Experienced in building ETL pipelines, dashboards, and ML prototypes  
+- Skilled at communicating complex analyses in clear, business‑friendly language  
 
 ## 🛠️ Core Skills
 
@@ -53,10 +53,10 @@
 ### 1. [Sales Dashboard & Forecasting](https://github.com/nurahmed12/sales-dashboard)  
 **Stack:** Python · Pandas · Plotly · Flask · PostgreSQL  
 - Built an interactive dashboard tracking KPIs (revenue, churn, CLV).  
-- Implemented time-series forecasting to predict next-quarter sales with 92% accuracy.  
+- Implemented time‑series forecasting to predict next‑quarter sales with 92% accuracy.  
 - Deployed on AWS EC2 with CI/CD for automatic updates.
 
-### 2. [Real-Time Data Pipeline](https://github.com/nurahmed12/real-time-pipeline)  
+### 2. [Real‑Time Data Pipeline](https://github.com/nurahmed12/real-time-pipeline)  
 **Stack:** Apache Kafka · Spark Streaming · Delta Lake · Airflow  
 - Designed a resilient Kafka‑Spark pipeline processing 10k messages/sec.  
 - Layered data landing, cleaning, and serving tables in Delta Lake on AWS S3.  
