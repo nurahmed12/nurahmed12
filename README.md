@@ -104,9 +104,9 @@
   <a href="https://github.com/nurahmed12" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=Portfolio" alt="Top Languages">
   </a>
-  <a href="https://github.com/nurahmed12" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://streak-stats.demolab.com?user=nurahmed12&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
-  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurahmed12&bg_color=1a1b27&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</a>
 </div>
 
 ---
