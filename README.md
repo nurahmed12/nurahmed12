@@ -2,7 +2,6 @@
   <!-- Banner Image -->
   <img src="Blue Modern Profile LinkedIn Background Photo.png" alt="Banner" style="width: 100%; max-width:800px; height:auto; border:3px solid #64ffda; border-radius: 8px; margin-bottom: 20px">
 
-  <h1>👋 Hi, I'm Nur Ahmed</h1>
   <h3><em>Transforming raw data into actionable insights</em></h3>
 </div>
 
