@@ -29,12 +29,12 @@
 </div>
 
 ## 📌 About Me
-- 🔭 **Data Analyst & Engineer** focused on building scalable data solutions
-- 🛠️ Developing efficient ETL pipelines and impactful data visualizations
-- 🌱 Mastering **cloud data platforms** and **machine learning applications**
-- 📈 Committed to data-driven decision making and business impact
+-  **Data Analyst & Engineer** focused on building scalable data solutions
+-  Developing efficient ETL pipelines and impactful data visualizations
+-  Mastering **cloud data platforms** and **machine learning applications**
+-  Committed to data-driven decision making and business impact
 
-## 💻 Tech Stack
+##  Tech Stack
 <div align="center">
   
 ### 🛠️ Data Engineering & Analytics
