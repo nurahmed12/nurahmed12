@@ -29,7 +29,7 @@
 </div>
 
 ## 📌 About Me
-An individual who crave for knowledge, adapts to any situation, learns from his mistakes and improves himself every single day, aims for endless growth, and is passionate about Artificial Intelligence, Data Science, and Software Engineering.
+An individual who craves for knowledge, adapts to any situation, learns from his mistakes and improves himself every single day, aims for endless growth, loves to take challenges, and is passionate about Artificial Intelligence, Data Science, and Software Engineering.
 
 ##  Tech Stack
 <div align="center">
