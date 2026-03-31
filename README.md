@@ -29,10 +29,7 @@
 </div>
 
 ## 📌 About Me
--  **Data Analyst & Engineer** focused on building scalable data solutions
--  Developing efficient ETL pipelines and impactful data visualizations
--  Mastering **cloud data platforms** and **machine learning applications**
--  Committed to data-driven decision making and business impact
+An individual who crave for knowledge, adapts to any situation, learns from his mistakes and improves himself every single day, aims for endless growth, and is passionate about Artificial Intelligence, Data Science, and Software Engineering.
 
 ##  Tech Stack
 <div align="center">
