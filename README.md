@@ -139,12 +139,6 @@ An individual who craves for knowledge, adapts to any situation, learns from his
 
 ## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/nurahmed12" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurahmed12&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/nurahmed12" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed12&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=Portfolio" alt="Top Languages">
-  </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurahmed12&bg_color=1a1b27&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </a>
