@@ -1,13 +1,14 @@
 <div align="center">
   <!-- Banner Image -->
   <img src="Blue Modern Profile LinkedIn Background Photo.png" alt="Banner" style="width: 100%; max-width:800px; height:auto; border:3px solid #64ffda; border-radius: 8px; margin-bottom: 20px">
-
-  <h3><em>Transforming raw data into actionable insights</em></h3>
 </div>
 
 <div align="center" style="margin-top: 10px">
   <img src="https://komarev.com/ghpvc/?username=nurahmed12&label=Profile%20views&color=0e75b6&style=flat" alt="nurahmed12" />
 </div>
+
+## 📌 About Me
+An individual who craves for knowledge, adapts to any situation, learns from his mistakes and improves himself every single day, aims for endless growth, loves to take challenges, and possesses a strong foundation in <b>Artificial Intelligence, Data Science, and Software Engineering</b>.
 
 ## 🔗 Connect With Me
 <div align="center">
@@ -27,9 +28,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-## 📌 About Me
-An individual who craves for knowledge, adapts to any situation, learns from his mistakes and improves himself every single day, aims for endless growth, loves to take challenges, and possesses a strong foundation in <b>Artificial Intelligence, Data Science, and Software Engineering</b>.
 
 ##  Tech Stack
 <div align="center">
