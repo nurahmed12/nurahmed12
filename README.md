@@ -7,10 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=nurahmed12&label=Profile%20views&color=0e75b6&style=flat" alt="nurahmed12" />
 </div>
 
-## 📌 About Me
+## About Me
 An individual who craves for knowledge, adapts to any situation, learns from his mistakes and improves himself every single day, aims for endless growth, loves to take challenges, and possesses a strong foundation in <b>Artificial Intelligence, Data Science, and Software Engineering</b>.
 
-## 🔗 Connect With Me
+## Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/nurahmed12" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -32,7 +32,7 @@ An individual who craves for knowledge, adapts to any situation, learns from his
 ##  Tech Stack
 <div align="center">
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 <div style="margin: 20px 0"></div>
 
 <p align="center">
@@ -72,7 +72,7 @@ An individual who craves for knowledge, adapts to any situation, learns from his
   </a>
 </p>
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 <div style="margin: 20px 0"></div>
 <p align="center">
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noopener noreferrer">
@@ -89,7 +89,7 @@ An individual who craves for knowledge, adapts to any situation, learns from his
   </a>
 </p>
 
-### 💻 Software Engineering
+### Software Engineering
 <div style="margin: 20px 0"></div>
 
 <p align="center">
@@ -135,7 +135,7 @@ An individual who craves for knowledge, adapts to any situation, learns from his
   </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurahmed12&bg_color=1a1b27&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
@@ -144,5 +144,5 @@ An individual who craves for knowledge, adapts to any situation, learns from his
 
 ---
 <div align="center" style="font-size:1.2em;font-weight:bold;margin-top:20px">
-  🚀 Let's extract value from data together!
+  Let's extract value from data together!
 </div>
